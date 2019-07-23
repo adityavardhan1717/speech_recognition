@@ -187,7 +187,7 @@ if __name__ == "__main__":
                     print(e)
 
             elif 'wait for sometime' in query:
-                time.sleep(200)
+                time.sleep(20)
 
             elif "whatsapp jarvis" in query:
                 speak("I am doing my job!!")
